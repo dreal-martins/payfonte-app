@@ -42,7 +42,7 @@ A production-grade Next.js app that integrates with the PayFronte public API to 
 ### Install & Run
 
 ```bash
-git clone https://github.com/dreal-martins/PayFronte-Countries-Explorer.git
+git clone https://github.com/dreal-martins/payfonte-app.git
 cd PayFronte-countries-explorer
 npm install
 npm run dev
