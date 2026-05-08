@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "PayFronte Pays",
+    "subtitle": "Explorez les pays, devises et paramètres régionaux",
+    "search_placeholder": "Rechercher par nom, code ou devise…",
+    "showing": "Affichage de {count} sur {total} pays",
+    "no_countries_found": "Aucun pays trouvé",
+    "no_results": "Aucun pays ne correspond à votre recherche.",
+    "error_title": "Échec du chargement des pays",
+    "error_hint": "Vérifiez votre connexion et réessayez.",
+    "retry": "Réessayer",
+    "locale_label": "Paramètre régional",
+    "currency_label": "Devise",
+    "code_label": "Code",
+    "name_label": "Pays",
+    "sample": "Exemple",
+    "country_code": "Code du pays",
+    "sample_amount": "Montant exemple en {currency}"
+  }
+}

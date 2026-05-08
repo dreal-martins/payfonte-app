@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "بلدان PayFronte",
+    "subtitle": "استكشف الدول والعملات والإعدادات المحلية",
+    "search_placeholder": "ابحث بالاسم أو الرمز أو العملة…",
+    "showing": "عرض {count} من {total} دولة",
+    "no_countries_found": "لم يتم العثور على بلدان",
+    "no_results": "لا توجد دول تطابق بحثك.",
+    "error_title": "فشل في تحميل الدول",
+    "error_hint": "تحقق من اتصالك وحاول مرة أخرى.",
+    "retry": "إعادة المحاولة",
+    "locale_label": "الإعداد المحلي",
+    "currency_label": "العملة",
+    "code_label": "الرمز",
+    "name_label": "الدولة",
+    "sample": "مثال",
+    "country_code": "رمز الدولة",
+    "sample_amount": "مبلغ تجريبي بـ {currency}"
+  }
+}

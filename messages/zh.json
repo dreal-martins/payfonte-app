@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "PayFronte 国家",
+    "subtitle": "探索国家、货币和区域设置",
+    "search_placeholder": "按名称、代码或货币搜索…",
+    "showing": "显示 {total} 个国家中的 {count} 个",
+    "no_countries_found": "未找到国家",
+    "no_results": "没有符合搜索条件的国家。",
+    "error_title": "加载国家失败",
+    "error_hint": "请检查网络连接后重试。",
+    "retry": "重试",
+    "locale_label": "语言环境",
+    "currency_label": "货币",
+    "code_label": "代码",
+    "name_label": "国家",
+    "sample": "示例",
+    "country_code": "国家代码",
+    "sample_amount": "{currency} 示例金额"
+  }
+}

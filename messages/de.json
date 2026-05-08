@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "PayFronte Länder",
+    "subtitle": "Entdecke Länder, Währungen und Gebietsschemas",
+    "search_placeholder": "Nach Name, Code oder Währung suchen…",
+    "showing": "{count} von {total} Ländern angezeigt",
+    "no_countries_found": "Keine Länder gefunden",
+    "no_results": "Keine Länder entsprechen deiner Suche.",
+    "error_title": "Länder konnten nicht geladen werden",
+    "error_hint": "Überprüfe deine Verbindung und versuche es erneut.",
+    "retry": "Erneut versuchen",
+    "locale_label": "Sprache",
+    "currency_label": "Währung",
+    "code_label": "Code",
+    "name_label": "Land",
+    "sample": "Beispiel",
+    "country_code": "Ländercode",
+    "sample_amount": "Beispielbetrag in {currency}"
+  }
+}

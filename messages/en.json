@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "PayFronte Countries",
+    "subtitle": "Explore countries, currencies & locales",
+    "search_placeholder": "Search by name, code, or currency…",
+    "showing": "Showing {count} of {total} countries",
+    "no_countries_found": "No countries found",
+    "no_results": "No countries match your search.",
+    "error_title": "Failed to load countries",
+    "error_hint": "Check your connection and try again.",
+    "retry": "Retry",
+    "locale_label": "Locale",
+    "currency_label": "Currency",
+    "country_code": "Country Code",
+    "sample": "Sample",
+    "sample_amount": "Sample amount in {currency}"
+  }
+}

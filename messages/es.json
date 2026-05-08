@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "Países de PayFronte",
+    "subtitle": "Explora países, monedas y configuraciones regionales",
+    "search_placeholder": "Buscar por nombre, código o moneda…",
+    "showing": "Mostrando {count} de {total} países",
+    "no_countries_found": "No se encontraron países",
+    "no_results": "No hay países que coincidan con tu búsqueda.",
+    "error_title": "Error al cargar los países",
+    "error_hint": "Verifica tu conexión e inténtalo de nuevo.",
+    "retry": "Reintentar",
+    "locale_label": "Idioma",
+    "currency_label": "Moneda",
+    "code_label": "Código",
+    "name_label": "País",
+    "sample": "Ejemplo",
+    "country_code": "Código de país",
+    "sample_amount": "Cantidad de muestra en {currency}"
+  }
+}
